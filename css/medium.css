@@ -1,0 +1,19 @@
+@media only screen and (min-width: 768px) {
+  #hamburgerBtn {
+    display: none;
+  }
+
+  .navbar-items ul {
+    display: block;
+  }
+
+  .navbar-items li {
+    display: inline-block;
+  }
+
+  .navbar-items a {
+    text-decoration: none;
+    margin-left: 4rem;
+    color: #d60000;
+  }
+}
